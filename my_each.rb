@@ -8,6 +8,6 @@ def my_each(array)# put argument(s) here
 
     array
   else
-    puts "Hey! There's no block given."
+    "Hey! There's no block given."
   end
 end
